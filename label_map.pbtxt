@@ -1,0 +1,84 @@
+item { 
+	name:'alive'
+	id:1
+}
+item { 
+	name:'drink'
+	id:2
+}
+item { 
+	name:'friend'
+	id:3
+}
+item { 
+	name:'help'
+	id:4
+}
+item { 
+	name:'iloveyou'
+	id:5
+}
+item { 
+	name:'hello'
+	id:6
+}
+item { 
+	name:'yes'
+	id:7
+}
+item { 
+	name:'listen'
+	id:8
+}
+item { 
+	name:'thankyou'
+	id:9
+}
+item { 
+	name:'name'
+	id:10
+}
+item { 
+	name:'stand'
+	id:11
+}
+item { 
+	name:'mother'
+	id:12
+}
+item { 
+	name:'I'
+	id:13
+}
+item { 
+	name:'eat'
+	id:14
+}
+item { 
+	name:'bathroom'
+	id:15
+}
+item { 
+	name:'please'
+	id:16
+}
+item { 
+	name:'play'
+	id:17
+}
+item { 
+	name:'correct'
+	id:18
+}
+item { 
+	name:'house'
+	id:19
+}
+item { 
+	name:'when'
+	id:20
+}
+item { 
+	name:'door'
+	id:21
+}
